@@ -31,9 +31,9 @@
     &__social{
         display: flex;
         column-gap: 1.5rem;
-
+        
         &-link{
-            font-size: 1.25rem;
+            font-size: 1.5rem;
             color: var(--title-color);
         }
     }
@@ -42,5 +42,8 @@
         text-align: center;
         font-size: var(--smaller-font-size);
         color: var(--text-color);
+        a{
+            color: var(--first-color);
+        }
     }
 }

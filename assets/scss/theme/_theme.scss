@@ -14,12 +14,23 @@ body.dark-theme{
 .change-theme {
     position: absolute;
     right: 1.5rem;
-    top: 2.2rem;
+    top: 20px;
     color: var(--title-color);
     font-size: 1.8rem;
     cursor: pointer;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--first-color);
+    transition: .5s;
 }
 
 .dark-theme .footer{
     background-color: var(--container-color);
+}
+.dark-theme .uil-sun{
+    color: var(--container-color);
 }
