@@ -2,7 +2,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap");
 /*=============== VARIABLES CSS ===============*/
 :root {
-  --header-height: 3rem;
+  --header-height: 4.5rem;
   /*========== Colors ==========*/
   --hue: 4;
   --sat: 90%;
@@ -127,6 +127,10 @@ body.dark-theme {
   color: var(--container-color);
 }
 
+.dark-theme .svg__logo {
+  fill: var(--text-color);
+}
+
 /*=============== REUSABLE CSS CLASSES ===============*/
 .section {
   padding: 4.5rem 0 1rem;
@@ -150,6 +154,11 @@ body.dark-theme {
 .svg__img {
   width: 300px;
   justify-self: center;
+}
+
+.svg__logo {
+  width: 70px;
+  height: auto;
 }
 
 /*=============== LAYOUT ===============*/
@@ -207,10 +216,6 @@ body.dark-theme {
   row-gap: 1.5rem;
 }
 
-.nav__logo {
-  font-size: 1.8rem;
-}
-
 .nav__link, .nav__logo, .nav__toggle {
   color: var(--title-color);
   font-weight: var(--font-semi-bold);
@@ -250,6 +255,16 @@ body.dark-theme {
 }
 
 /*=============== HOME ===============*/
+.home__img {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.home__img img {
+  max-width: 250px;
+}
+
 .home__container {
   row-gap: 3rem;
 }
