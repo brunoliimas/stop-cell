@@ -1,0 +1,28 @@
+<svg id="cables" xmlns="http://www.w3.org/2000/svg" width="369.432" height="470.569" viewBox="0 0 369.432 470.569">
+  <g transform="translate(-414.149 -537.702)">
+    <path class="black" d="M382.2,541.846H329.617a3.954,3.954,0,0,1-3.954-3.954V450.736a3.954,3.954,0,0,1,3.954-3.954H382.2a3.954,3.954,0,0,1,3.954,3.954v87.155a3.954,3.954,0,0,1-3.954,3.954" transform="translate(186.6 134.131)"/>
+    <path class="black" data-name="black" d="M538.961,541.846H445.705a3.954,3.954,0,0,1-3.954-3.954V450.736a3.954,3.954,0,0,1,3.954-3.954h93.256a3.954,3.954,0,0,1,3.954,3.954v87.155a3.954,3.954,0,0,1-3.954,3.954" transform="translate(223.53 134.131)"/>
+    <rect class="light" width="27.021" height="80.372" transform="translate(605.51 674.247)"/>
+    <rect class="black" data-name="black" width="77.78" height="86.421" transform="translate(414.149 598.197)"/>
+    <rect class="light" data-name="light" width="43.211" height="43.211" transform="translate(520.906 537.702)"/>
+    <path class="light" data-name="light" d="M433.475,457.211H390.264V427.181A13.181,13.181,0,0,1,403.445,414h16.848a13.181,13.181,0,0,1,13.181,13.181Z" transform="translate(207.151 123.702)"/>
+    <rect class="light" data-name="light" width="72.261" height="43.211" transform="translate(679.733 537.702)"/>
+    <path class="light" data-name="light" d="M254.178,474.5h69.137V414H254.178Zm10.587-46.452H282.05v12.964H264.765Zm23.982,32.409c-4.773,0-8.642-2.9-8.642-6.483s3.869-6.481,8.642-6.481,8.642,2.9,8.642,6.481-3.869,6.483-8.642,6.483m23.982-19.445H295.444V428.043h17.285Z" transform="translate(163.859 123.702)"/>
+    <path class="white" d="M422.476,432.209h-23.3a5.635,5.635,0,0,1-5.635-5.634v-1.7a5.635,5.635,0,0,1,5.635-5.634h23.3a5.634,5.634,0,0,1,5.634,5.634v1.7a5.634,5.634,0,0,1-5.634,5.634" transform="translate(208.194 125.371)"/>
+    <rect class="light" data-name="light" width="1.728" height="11.234" transform="translate(605.193 545.48)"/>
+    <rect class="light" data-name="light" width="1.728" height="11.234" transform="translate(609.514 545.48)"/>
+    <rect class="light" data-name="light" width="1.728" height="11.234" transform="translate(613.835 545.48)"/>
+    <rect class="light" data-name="light" width="1.728" height="11.234" transform="translate(618.156 545.48)"/>
+    <rect class="light" data-name="light" width="1.728" height="11.234" transform="translate(622.477 545.48)"/>
+    <rect class="light" data-name="light" width="1.728" height="11.234" transform="translate(626.799 545.48)"/>
+    <rect class="light" data-name="light" width="1.728" height="11.234" transform="translate(631.12 545.48)" />
+    <rect class="dark" width="27.021" height="22.47" transform="translate(529.001 675.976)"/>
+    <rect class="dark" data-name="dark" width="45.188" height="22.47" transform="translate(693.27 675.976)"/>
+    <rect class="dark" data-name="dark" width="48.842" height="22.47" transform="translate(428.618 684.468)"/>
+    <path class="white" data-name="white" d="M434.884,540.117H390.939a3.954,3.954,0,0,1-3.954-3.954V450.735a3.956,3.956,0,0,1,3.954-3.954h43.945a3.955,3.955,0,0,1,3.954,3.954v85.427a3.953,3.953,0,0,1-3.954,3.954" transform="translate(206.108 134.131)"/>
+    <path class="black" data-name="black" d="M336.815,843.532h-6.591V773.763a9.9,9.9,0,0,0-9.886-9.886H293.976A16.494,16.494,0,0,1,277.5,747.4V543h6.591V747.4a9.9,9.9,0,0,0,9.886,9.886h26.362a16.5,16.5,0,0,1,16.477,16.477Z" transform="translate(171.279 164.74)"/>
+    <path class="black" data-name="black" d="M401.861,845.758H395.27v-106.6a9.9,9.9,0,0,0-9.886-9.886H362.977A16.494,16.494,0,0,1,346.5,712.8V536h6.591V712.8a9.9,9.9,0,0,0,9.886,9.886h22.408a16.494,16.494,0,0,1,16.477,16.477Z" transform="translate(193.229 162.513)"/>
+    <path class="black" data-name="black" d="M466.452,832.079h-6.591V647.8a9.9,9.9,0,0,0-9.886-9.886h-29A16.494,16.494,0,0,1,404.5,621.433V579h6.591v42.433a9.9,9.9,0,0,0,9.886,9.886h29A16.5,16.5,0,0,1,466.452,647.8Z" transform="translate(211.68 176.192)"/>
+    <path class="black" data-name="black" d="M548.36,845.758H541.77V696.836a9.9,9.9,0,0,0-9.886-9.886H494.977A16.5,16.5,0,0,1,478.5,670.473V536h6.591V670.473a9.9,9.9,0,0,0,9.886,9.886h36.907a16.494,16.494,0,0,1,16.477,16.476Z" transform="translate(235.221 162.513)"/>
+  </g>
+</svg>

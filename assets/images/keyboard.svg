@@ -1,0 +1,116 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420.943" height="974.092" viewBox="0 0 420.943 974.092">
+  <g id="keyboard" transform="translate(-1416.28 2.728)">
+    <path class="black" d="M1141.335,248.016H1034.567c-12.719,0-23.067-9.774-23.067-21.787V4h6.591V226.229c0,8.581,7.391,15.562,16.477,15.562h106.768Z" transform="translate(404.78 -6.728)"/>
+    <path class="light" d="M1137.635,200.533H1112.59a6.591,6.591,0,0,1-6.591-6.591v-9.227a6.591,6.591,0,0,1,6.591-6.591h25.044a6.591,6.591,0,0,1,6.591,6.591v9.227a6.591,6.591,0,0,1-6.591,6.591" transform="translate(434.842 48.665)"/>
+    <path class="dark" d="M1390.748,958.368H1128.442a6.591,6.591,0,0,1-6.591-6.591V72.591A6.591,6.591,0,0,1,1128.442,66h262.306a6.591,6.591,0,0,1,6.591,6.591V951.777a6.591,6.591,0,0,1-6.591,6.591" transform="translate(439.885 12.996)"/>
+    <g class="white">
+      <rect id="white" data-name="light" width="35.316" height="37.566" rx="2" transform="translate(1629.353 89.211)"/>
+      <rect id="white" data-name="light" width="35.316" height="37.566" rx="2" transform="translate(1667.345 89.211)"/>
+      <rect id="white" data-name="light" width="35.316" height="37.566" rx="2" transform="translate(1705.337 89.211)"/>
+      <path id="white" data-name="light" d="M1305.465,73.75h-43.209a2.643,2.643,0,0,0-2.636,2.636V108.68a2.643,2.643,0,0,0,2.636,2.636h68.035a2.644,2.644,0,0,0,2.636-2.636V76.386a2.644,2.644,0,0,0-2.636-2.636Z" transform="translate(483.711 15.461)"/>
+      <rect id="white" data-name="light" width="35.316" height="37.566" rx="2" transform="translate(1629.353 129.414)"/>
+      <rect id="white" data-name="light" width="35.316" height="37.566" rx="2" transform="translate(1667.345 129.414)"/>
+      <rect id="white" data-name="light" width="35.316" height="37.566" rx="2" transform="translate(1705.337 129.414)"/>
+      <rect id="white" data-name="light" width="35.316" height="37.566" rx="2" transform="translate(1743.33 129.414)"/>
+      <rect id="white" data-name="light" width="35.316" height="37.566" rx="2" transform="translate(1781.322 129.414)"/>
+      <rect id="white" data-name="light" width="35.316" height="37.566" rx="2" transform="translate(1629.353 169.617)"/>
+      <rect id="white" data-name="light" width="35.316" height="37.566" rx="2" transform="translate(1667.345 169.617)"/>
+      <rect id="white" data-name="light" width="35.316" height="37.566" rx="2" transform="translate(1705.337 169.617)"/>
+      <rect id="white" data-name="light" width="35.316" height="37.566" rx="2" transform="translate(1743.33 169.617)"/>
+      <rect id="white" data-name="light" width="35.316" height="37.566" rx="2" transform="translate(1629.353 209.819)"/>
+      <rect id="white" data-name="light" width="35.316" height="37.566" rx="2" transform="translate(1667.345 209.819)"/>
+      <rect id="white" data-name="light" width="35.316" height="37.566" rx="2" transform="translate(1705.337 209.819)"/>
+      <rect id="white" data-name="light" width="35.316" height="37.566" rx="2" transform="translate(1743.33 209.819)"/>
+      <path id="white" data-name="light" d="M1291.077,134.75a2.644,2.644,0,0,0-2.636,2.636v72.5a2.644,2.644,0,0,0,2.636,2.636h30.044a2.644,2.644,0,0,0,2.636-2.636v-72.5a2.644,2.644,0,0,0-2.636-2.636Z" transform="translate(492.88 34.867)"/>
+      <rect id="white" data-name="light" width="34.798" height="37.566" rx="2" transform="translate(1582.319 257.931)"/>
+      <rect id="white" data-name="light" width="34.798" height="37.566" rx="2" transform="translate(1582.319 298.133)"/>
+      <rect id="white" data-name="light" width="34.798" height="37.566" rx="2" transform="translate(1582.319 338.336)"/>
+      <rect id="white" data-name="light" width="34.798" height="37.566" rx="2" transform="translate(1629.353 257.931)"/>
+      <rect id="white" data-name="light" width="34.798" height="37.566" rx="2" transform="translate(1666.787 257.931)"/>
+      <rect id="white" data-name="light" width="34.798" height="37.566" rx="2" transform="translate(1629.353 298.133)"/>
+      <rect id="white" data-name="light" width="34.798" height="37.566" rx="2" transform="translate(1666.787 298.133)"/>
+      <rect id="white" data-name="light" width="34.798" height="37.566" rx="2" transform="translate(1629.353 338.336)"/>
+      <rect id="white" data-name="light" width="34.798" height="37.566" rx="2" transform="translate(1666.787 338.336)"/>
+      <rect id="white" data-name="light" width="34.798" height="37.566" rx="2" transform="translate(1781.84 257.931)"/>
+      <rect id="white" data-name="light" width="34.798" height="37.566" rx="2" transform="translate(1744.406 298.133)"/>
+      <rect id="white" data-name="light" width="34.798" height="37.566" rx="2" transform="translate(1781.84 298.133)"/>
+      <rect id="white" data-name="light" width="34.798" height="37.566" rx="2" transform="translate(1781.84 338.336)"/>
+      <rect id="white" data-name="light" width="34.798" height="37.566" rx="2" transform="translate(1582.319 388.993)"/>
+      <rect id="white" data-name="light" width="34.798" height="37.566" rx="2" transform="translate(1582.319 429.196)"/>
+      <rect id="white" data-name="light" width="34.798" height="37.566" rx="2" transform="translate(1582.319 469.399)"/>
+      <rect id="white" data-name="light" width="34.798" height="37.566" rx="2" transform="translate(1582.319 509.602)"/>
+      <rect id="white" data-name="light" width="34.798" height="37.566" rx="2" transform="translate(1582.319 560.259)"/>
+      <rect id="white" data-name="light" width="34.798" height="37.566" rx="2" transform="translate(1582.319 600.462)"/>
+      <rect id="white" data-name="light" width="34.798" height="37.566" rx="2" transform="translate(1582.319 640.664)"/>
+      <rect id="white" data-name="light" width="34.798" height="37.566" rx="2" transform="translate(1582.319 680.867)"/>
+      <rect id="white" data-name="light" width="34.798" height="37.566" rx="2" transform="translate(1582.319 731.524)"/>
+      <rect id="white" data-name="light" width="34.798" height="37.566" rx="2" transform="translate(1582.319 771.727)"/>
+      <rect id="white" data-name="light" width="34.798" height="37.566" rx="2" transform="translate(1582.319 811.93)"/>
+      <rect id="white" data-name="light" width="34.798" height="37.566" rx="2" transform="translate(1582.319 852.132)"/>
+      <rect id="white" data-name="light" width="34.798" height="37.566" rx="2" transform="translate(1582.319 923.582)"/>
+      <rect id="white" data-name="light" width="34.798" height="37.566" rx="2" transform="translate(1743.492 481.704)"/>
+      <rect id="white" data-name="light" width="34.798" height="37.566" rx="2" transform="translate(1743.492 521.907)"/>
+      <rect id="white" data-name="light" width="34.798" height="37.566" rx="2" transform="translate(1743.492 562.109)"/>
+      <rect id="white" data-name="light" width="34.798" height="37.566" rx="2" transform="translate(1743.492 602.312)"/>
+      <rect id="white" data-name="light" width="34.798" height="37.566" rx="2" transform="translate(1743.492 642.515)"/>
+      <rect id="white" data-name="light" width="34.798" height="37.566" rx="2" transform="translate(1743.492 682.717)"/>
+      <rect id="white" data-name="light" width="34.798" height="37.566" rx="2" transform="translate(1743.492 722.92)"/>
+      <rect id="white" data-name="light" width="34.798" height="37.566" rx="2" transform="translate(1743.492 763.123)"/>
+      <rect id="white" data-name="light" width="34.798" height="37.566" rx="2" transform="translate(1743.492 802.974)"/>
+      <rect id="white" data-name="light" width="34.798" height="37.566" rx="2" transform="translate(1743.492 843.176)"/>
+      <rect id="white" data-name="light" width="34.798" height="37.566" rx="2" transform="translate(1743.492 883.379)"/>
+      <rect id="white" data-name="light" width="34.798" height="37.566" rx="2" transform="translate(1743.492 923.582)"/>
+      <rect id="white" data-name="light" width="34.798" height="37.566" rx="2" transform="translate(1781.596 472.477)"/>
+      <rect id="white" data-name="light" width="34.798" height="37.566" rx="2" transform="translate(1781.596 512.68)"/>
+      <rect id="white" data-name="light" width="34.798" height="37.566" rx="2" transform="translate(1781.596 552.882)"/>
+      <rect id="white" data-name="light" width="34.798" height="37.566" rx="2" transform="translate(1781.596 793.747)"/>
+      <rect id="white" data-name="light" width="34.798" height="37.566" rx="2" transform="translate(1781.596 833.95)"/>
+      <rect id="white" data-name="light" width="34.798" height="37.566" rx="2" transform="translate(1781.596 874.152)"/>
+      <rect id="white" data-name="light" width="34.798" height="46.793" rx="2" transform="translate(1781.596 914.355)"/>
+      <path id="white" data-name="light" d="M1323.434,495.919c-.015,0-.026-1.186-.026-2.636v-33.69a2.644,2.644,0,0,0-2.636-2.636h-29.526a2.644,2.644,0,0,0-2.636,2.636v49.078c0,1.45.012,2.636.026,2.636s.026,1.186.026,2.636V651.458a2.644,2.644,0,0,0,2.636,2.636h29.526a2.644,2.644,0,0,0,2.636-2.636v-152.9c0-1.449-.012-2.636-.026-2.636" transform="translate(492.934 137.368)"/>
+      <rect id="white" data-name="light" width="34.798" height="37.566" rx="2" transform="translate(1667.391 446.422)"/>
+      <rect id="white" data-name="light" width="34.798" height="37.566" rx="2" transform="translate(1667.391 486.625)"/>
+      <rect id="white" data-name="light" width="34.798" height="37.566" rx="2" transform="translate(1667.391 526.827)"/>
+      <rect id="white" data-name="light" width="34.798" height="37.566" rx="2" transform="translate(1667.391 567.03)"/>
+      <rect id="white" data-name="light" width="34.798" height="37.566" rx="2" transform="translate(1667.391 607.233)"/>
+      <rect id="white" data-name="light" width="34.798" height="37.566" rx="2" transform="translate(1667.391 647.435)"/>
+      <rect id="white" data-name="light" width="34.798" height="37.566" rx="2" transform="translate(1667.391 687.638)"/>
+      <rect id="white" data-name="light" width="34.798" height="37.566" rx="2" transform="translate(1667.391 727.841)"/>
+      <rect id="white" data-name="light" width="34.798" height="37.566" rx="2" transform="translate(1667.391 767.692)"/>
+      <rect id="white" data-name="light" width="34.798" height="37.566" rx="2" transform="translate(1667.391 807.894)"/>
+      <rect id="white" data-name="light" width="34.798" height="37.566" rx="2" transform="translate(1667.391 848.097)"/>
+      <rect id="white" data-name="light" width="34.798" height="72.849" rx="2" transform="translate(1667.391 888.3)"/>
+      <rect id="white" data-name="light" width="34.798" height="37.566" rx="2" transform="translate(1705.441 471.466)"/>
+      <rect id="white" data-name="light" width="34.798" height="37.566" rx="2" transform="translate(1705.441 511.669)"/>
+      <rect id="white" data-name="light" width="34.798" height="37.566" rx="2" transform="translate(1705.441 551.872)"/>
+      <rect id="white" data-name="light" width="34.798" height="37.566" rx="2" transform="translate(1705.441 592.074)"/>
+      <rect id="white" data-name="light" width="34.798" height="37.566" rx="2" transform="translate(1705.441 632.277)"/>
+      <rect id="white" data-name="light" width="34.798" height="37.566" rx="2" transform="translate(1705.441 672.48)"/>
+      <rect id="white" data-name="light" width="34.798" height="37.566" rx="2" transform="translate(1705.441 712.682)"/>
+      <rect id="white" data-name="light" width="34.798" height="37.566" rx="2" transform="translate(1705.441 752.885)"/>
+      <rect id="white" data-name="light" width="34.798" height="37.566" rx="2" transform="translate(1705.441 792.736)"/>
+      <rect id="white" data-name="light" width="34.798" height="37.566" rx="2" transform="translate(1705.441 832.939)"/>
+      <rect id="white" data-name="light" width="34.798" height="37.566" rx="2" transform="translate(1705.441 873.141)"/>
+      <rect id="white" data-name="light" width="34.798" height="47.804" rx="2" transform="translate(1705.441 913.344)"/>
+      <rect id="white" data-name="light" width="34.798" height="37.566" rx="2" transform="translate(1628.694 481.704)"/>
+      <rect id="white" data-name="light" width="34.798" height="37.566" rx="2" transform="translate(1628.694 521.907)"/>
+      <rect id="white" data-name="light" width="34.798" height="37.566" rx="2" transform="translate(1628.694 562.109)"/>
+      <rect id="white" data-name="light" width="34.798" height="37.566" rx="2" transform="translate(1628.694 602.312)"/>
+      <rect id="white" data-name="light" width="34.798" height="37.566" rx="2" transform="translate(1628.694 642.515)"/>
+      <rect id="white" data-name="light" width="34.798" height="37.566" rx="2" transform="translate(1628.694 682.717)"/>
+      <rect id="white" data-name="light" width="34.798" height="37.566" rx="2" transform="translate(1628.694 722.92)"/>
+      <rect id="white" data-name="light" width="34.798" height="37.566" rx="2" transform="translate(1628.694 763.123)"/>
+      <rect id="white" data-name="light" width="34.798" height="37.566" rx="2" transform="translate(1628.694 802.974)"/>
+      <rect id="white" data-name="light" width="34.798" height="37.566" rx="2" transform="translate(1628.694 843.176)"/>
+      <rect id="white" data-name="light" width="34.798" height="37.566" rx="2" transform="translate(1628.694 883.379)"/>
+      <rect id="white" data-name="light" width="34.798" height="37.566" rx="2" transform="translate(1628.694 923.582)"/>
+      <rect id="white" data-name="light" width="34.798" height="47.802" rx="2" transform="translate(1629.339 389.084)"/>
+      <rect id="white" data-name="light" width="34.798" height="37.566" rx="2" transform="translate(1629.339 439.521)"/>
+      <rect id="white" data-name="light" width="34.798" height="41.144" rx="2" transform="translate(1781.84 389.084)"/>
+      <rect id="white" data-name="light" width="34.798" height="37.566" rx="2" transform="translate(1781.84 432.863)"/>
+      <rect id="white" data-name="light" width="34.798" height="47.734" rx="2" transform="translate(1743.615 389.084)"/>
+      <path id="white" data-name="light" d="M1254.974,301.25h-50.5a2.643,2.643,0,0,0-2.636,2.636V352.28a2.643,2.643,0,0,0,2.636,2.636h32.953a2.644,2.644,0,0,1,2.636,2.636v19.772a2.643,2.643,0,0,0,2.636,2.636h29.526a2.644,2.644,0,0,0,2.636-2.636V303.886a2.644,2.644,0,0,0-2.636-2.636Z" transform="translate(465.329 87.834)"/>
+      <rect id="white" data-name="light" width="34.798" height="37.566" rx="2" transform="translate(1743.615 439.454)"/>
+    </g>
+  </g>
+</svg>

@@ -105,7 +105,38 @@ sr.reveal(`.home,
 .about,
 .services,
 .security,
+.products,
 .app,
 .contact`, {
     interval: 200
 })
+/*==================== SwiperANIMATION ====================*/
+var swiper = new Swiper(".mySwiper", {
+    slidesPerView: 3,
+    spaceBetween: 30,
+    slidesPerGroup: 3,
+    loop: true,
+    loopFillGroupWithBlank: true,
+    pagination: {
+        el: ".swiper-pagination",
+        clickable: true,
+    },
+    navigation: {
+        nextEl: ".swiper-button-next",
+        prevEl: ".swiper-button-prev",
+    },
+    breakpoints: {
+        319: {
+            slidesPerView: 1,
+            spaceBetween: 20,
+        },
+        767: {
+            slidesPerView: 2,
+            spaceBetween: 40,
+        },
+        1023: {
+            slidesPerView: 3,
+            spaceBetween: 30,
+        },
+    },
+});

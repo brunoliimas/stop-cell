@@ -20,6 +20,11 @@
     --scroll-bar-color: hsl(var(--hue), 4%, 85%);
     --scroll-thumb-color: hsl(var(--hue), 4%, 75%);
     
+    /*========== Colors ==========*/
+    --color-black: #263238;
+    --color-light: var(--first-color-light);
+    --color-dark: var(--first-color);
+    --color-white: #ffffff;
 
     /*========== Font and typography ==========*/
     --body-font: 'Poppins', sans-serif;
