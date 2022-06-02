@@ -210,7 +210,7 @@ body.dark-theme {
     margin: 0 auto;
     transition: .4s;
     border-radius: 0 0 1rem 1rem;
-    z-index: var(--z-fixed);
+    z-index: 1;
   }
 }
 
@@ -221,6 +221,10 @@ body.dark-theme {
   row-gap: 1.5rem;
 }
 
+.nav__logo {
+  z-index: var(--z-fixed);
+}
+
 .nav__link, .nav__logo, .nav__toggle {
   color: var(--title-color);
   font-weight: var(--font-semi-bold);
@@ -229,6 +233,7 @@ body.dark-theme {
 .nav__toggle {
   font-size: 2rem;
   cursor: pointer;
+  z-index: 10;
 }
 
 /* Show menu */
@@ -267,7 +272,7 @@ body.dark-theme {
 }
 
 .home__img img {
-  max-width: 250px;
+  max-width: 200px;
 }
 
 .home__container {

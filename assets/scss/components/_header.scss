@@ -29,7 +29,7 @@
             margin: 0 auto;
             transition: .4s;
             border-radius: 0 0 1rem 1rem;
-            z-index: var(--z-fixed);
+            z-index: 1;
         }
     }
     &__list{
@@ -38,7 +38,9 @@
         align-items: center;
         row-gap: 1.5rem;
     }
-   
+   &__logo{
+       z-index: var(--z-fixed);
+   }
     &__link, 
     &__logo, 
     &__toggle{
@@ -48,6 +50,7 @@
     &__toggle{
         font-size: 2rem;
         cursor: pointer;
+        z-index: 10;
     }
 }
 
