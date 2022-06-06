@@ -7,7 +7,7 @@
     left: 0;
     z-index: var(--z-fixed);
     transition: 0.5s; // For animation dark mode
-    .pre-header {
+    &__pre {
         position: relative;
         z-index: 90;
         background-color: var(--first-color);

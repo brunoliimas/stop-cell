@@ -189,7 +189,7 @@ body.dark-theme {
   transition: 0.5s;
 }
 
-.header .pre-header {
+.header__pre {
   position: relative;
   z-index: 90;
   background-color: var(--first-color);
@@ -773,6 +773,9 @@ body.dark-theme {
 @media screen and (min-width: 768px) {
   body {
     margin: 0;
+  }
+  .header__pre {
+    font-size: 1rem !important;
   }
   .section {
     padding: 10rem 0 0;

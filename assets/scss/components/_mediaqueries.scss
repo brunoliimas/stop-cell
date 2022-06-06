@@ -77,7 +77,11 @@
     body {
         margin: 0;
     }
-
+    .header{
+        &__pre {
+        font-size: 1rem!important;
+    }
+    }
     .section {
         padding: 10rem 0 0;
     }
