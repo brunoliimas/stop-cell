@@ -6,7 +6,7 @@
     }
 
     .section {
-        padding: 3.5rem 0 1rem;
+        padding: 4.5rem 0 1rem;
     }
 
     .services__img {
@@ -64,25 +64,31 @@
 }
 @media screen and (max-width: 1023px) {
     .products {
-        &__container{
+        &__container {
             height: auto;
         }
         &__imgs {
             display: none;
         }
     }
-    
 }
 
 @media screen and (min-width: 768px) {
     body {
         margin: 0;
     }
-    
-    .section {
-        padding: 6rem 0 2rem;
-    }
 
+    .section {
+        padding: 10rem 0 0;
+    }
+    .pre-header {
+        background-color: var(--first-color);
+        font-weight: var(--font-semi-bold);
+        letter-spacing: 0.1rem;
+        color: #fff;
+        padding: 10px 0;
+        text-align: center;
+    }
     .nav {
         height: calc(var(--header-height) + 1.5rem);
 
@@ -124,7 +130,7 @@
         column-gap: 6rem;
     }
 
-    .services__container{
+    .services__container {
         grid-template-columns: repeat(3, 1fr);
     }
     .products__container {
@@ -154,7 +160,7 @@
         margin-left: auto;
         margin-right: auto;
     }
-    .swiper{
+    .swiper {
         display: none;
     }
 

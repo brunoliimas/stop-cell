@@ -9,12 +9,24 @@
     transition: .5s; // For animation dark mode
 }
 
+.pre-header{
+    position: relative;
+    z-index: 90;
+    background-color: var(--first-color);
+        font-weight: var(--font-semi-bold);
+        // letter-spacing: 0.1rem;
+        color: #fff;
+        padding: 10px 0;
+        text-align: center;
+    font-size: .7rem;
+}
 /*=============== NAV ===============*/
 .nav{
     height: var(--header-height);
     display: flex;
     justify-content: space-between;
     align-items: center;
+    z-index: 1;
     
     &__menu{
         @media screen and (max-width: 767px){
@@ -27,7 +39,7 @@
             left: 0;
             right: 0;
             margin: 0 auto;
-            transition: .4s;
+            transition: .6s ease-out;
             border-radius: 0 0 1rem 1rem;
             z-index: 1;
         }
@@ -56,7 +68,7 @@
 
 /* Show menu */
 .show-menu{
-    top: calc(var(--header-height));
+    top: 6.5rem;
 }
 
 /* Active link */

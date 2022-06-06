@@ -1,6 +1,6 @@
 /*=============== THEME ===============*/
 /*========== Variables Dark theme ==========*/
-body.dark-theme{
+body.dark-theme {
     --first-color-light: hsl(var(--hue), var(--sat), 75%);
     --title-color: hsl(var(--hue), 4%, 95%);
     --text-color: hsl(var(--hue), 4%, 80%);
@@ -25,15 +25,27 @@ body.dark-theme{
     justify-content: center;
     align-items: center;
     background-color: var(--first-color);
-    transition: .5s;
+    transition: 0.5s;
 }
-
-.dark-theme .footer{
-    background-color: var(--container-color);
+.dark-theme {
+    .footer {
+        background-color: var(--container-color);
+    }
+    .uil-sun {
+        color: var(--container-color);
+    }
+    .svg__logo {
+        fill: var(--color-white);
+    }
+    
 }
-.dark-theme .uil-sun{
-    color: var(--container-color);
-}
-.dark-theme .svg__logo{
-    fill: var(--text-color);
-}
+// .dark-theme .footer{
+//     background-color: var(--container-color);
+// }
+// .dark-theme .uil-sun{
+//     color: var(--container-color);
+// }
+// .dark-theme .svg__logo{
+//     fill: var(--first-color);
+// }
+// products__subtitle
